@@ -1,4 +1,4 @@
-# DSA-210-Project-MANAGE-STRESS
+# DSA-210-Project-MANAGE_STRESS_DURING_EXAM_PERIODS
 Project Proposal: Analysis of YouTube Usage and Step Count During Exam Periods
 ⁠ ⁠Introduction (Motivation)
 
