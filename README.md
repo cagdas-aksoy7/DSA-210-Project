@@ -2,10 +2,9 @@
 Project Proposal: Analysis of YouTube Usage and Step Count During Exam Periods
 ⁠ ⁠Introduction (Motivation)
 
-Academic stress can have a significant impact on daily habits, influencing productivity and  well-being of student. This project explores how my YouTube usage and physical activity, measured through step count, change during exam periods compared to regular times. By identifying these patterns, I aim to understand the effects of academic stress on my behavior and find ways to create healthier habits for better performance. Key questions include: "Does my YouTube usage increase or decrease during exams?" or " Does my content preferences change? "and "How does my physical activity change during high-stress periods?"
+  Academic stress can have a significant impact on daily habits, influencing productivity and  well-being of student. This project explores how my YouTube usage and physical activity, measured through step count, change during exam periods compared to regular times. By identifying these patterns, I aim to understand the effects of academic stress on my behavior and find ways to create healthier habits for better performance. Key questions include: "Does my YouTube usage increase or decrease during exams?" or " Does my content preferences change? "and "How does my physical activity change during high-stress periods?"
 
-⁠# DATA SOURCES
-
+# DATA SOURCES
 
 
 This analysis will use two main sources of personal data:
@@ -15,9 +14,9 @@ YouTube Usage Data: Retrieved through Google Takeout, including information on w
 Step Count Data: Collected from the Apple Health app, providing daily step counts over several months, covering both exam and non-exam periods.
 These sources offer a comprehensive view of my habits, helping to connect changes in behavior to academic stress levels.
 
-# ANALYSIS PLAM
+# ANALYSIS PLAN
 
-# DATA PREPROCESSING
+
 
 Clean and organize the YouTube watch history to focus on:
 Date and time of usage(and maybe also type of content).
@@ -47,7 +46,9 @@ Correlation graphs to show possible links between YouTube usage and physical act
 Additionally, visuals will break down YouTube categories and how their frequency changes during exams, offering a deeper look at content preferences.
 
 
-⁠# EXPECTED OUTCOMES
+
+
+# EXPECTED OUTCOMES
 
 
 Patterns in YouTube usage during exams:
@@ -61,7 +62,7 @@ The findings could also offer ideas that are useful for others experiencing simi
 
 
 
-⁠# IMPLEMENTATION STEPS
+# IMPLEMENTATION STEPS
 
 Gather and preprocess YouTube and step count data.
 Identify exam periods using my academic calendar.
