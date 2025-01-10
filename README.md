@@ -1,6 +1,7 @@
 # DSA-210-Project-MANAGE_STRESS_DURING_EXAM_PERIODS
-Project Proposal: Analysis of YouTube Usage and Step Count During Exam Periods
-⁠ ⁠Introduction (Motivation)
+I am Çağdaş Eylem Aksoy(31985),and this is my project about my step count and Youtube usage.
+⁠ ⁠
+# Motivation
 
   Academic stress can have a significant impact on daily habits, influencing productivity and  well-being of student. This project explores how my YouTube usage and physical activity, measured through step count, change during exam periods compared to regular times. By identifying these patterns, I aim to understand the effects of academic stress on my behavior and find ways to create healthier habits for better performance. Key questions include: "Does my YouTube usage increase or decrease during exams?" or " Does my content preferences change? "and "How does my physical activity change during high-stress periods?"
 
